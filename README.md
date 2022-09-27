@@ -11,7 +11,7 @@
   
 ##
   
-<div style="display: inline_block">
+<div style="display: inline_block; padding: 5px">
   <img align="center" alt="Trajy-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Trajy-Kotlin" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Trajy-Phyton" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -21,11 +21,11 @@
   <img align="center" alt="Trajy-HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Trajy-CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
-<div style="display: inline_block">
+<div style="display: inline_block; padding: 5px">
   <img align="center" alt="Trajy-Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Trajy-Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
-<div style="display: inline_block">
+<div style="display: inline_block; padding: 5px">
   <img align="center" alt="Trajy-Android" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Trajy-Arduino" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
  </div>
