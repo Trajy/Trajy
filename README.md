@@ -1,4 +1,4 @@
-### Hi, I'm Henrique Trajano (Trajy) ⭐
+### Hi, I'm Henrique Trajano ⭐
 <!--
 **Trajy/Trajy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
